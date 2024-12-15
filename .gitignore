@@ -28,6 +28,3 @@ Thumbs.db
 dist
 build
 main.spec
-
-# Scrap Data Files
-data
